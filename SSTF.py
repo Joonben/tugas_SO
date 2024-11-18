@@ -61,3 +61,10 @@ if __name__ == '__main__':
                 req.append(que)
 
     sstf(req, head)
+
+# code ini di ambil dari geeksforgeeks dan di edit oleh 
+# Jona Ruben Manalu (71231048)
+# Prastha Pradipta Purusa (71230987)
+# Revaldo Fransisco Hohary (71231042)
+# Calvin Putra Susanto (71230988)
+# Freire Hanan Putra (71231046)
